@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gyan Prakash Singh  
 
-💼 **Data Analyst | Aspiring Data Scientist**  
+💼 **Aspiring Data Analyst | Business Analyst | Data Scientist**  
 📊 Passionate about uncovering insights, building dashboards, and enabling data-driven decision-making.  
 
 ---
